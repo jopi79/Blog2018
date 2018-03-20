@@ -30,6 +30,8 @@ public class NewMain {
         System.out.println(u2);
         System.out.println("-----");
         System.out.println(blog.lastComment());
+        System.out.println("-----");
+        System.out.println(blog.lastComments());
     }
     
 }
